@@ -11,13 +11,12 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 
 def get_filters():
     """
-    Asks user to specify a city, month, and day to analyse.
-
-    Returns:
+    Asks user to specify a city, month, and day to analyse. The function returns: 
         (str) city - name of the city to analyze
         (str) month - name of the month to filter by, or "all" to apply no month filter
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
+    
     print('Hello! Let\'s explore some US bikeshare data!')
     print('To end this program, type ctrl+C on Windows or ctrl+Z on Unix shell systems followed by any input.')
     done = False

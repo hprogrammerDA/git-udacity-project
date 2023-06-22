@@ -1,1 +1,4 @@
 .github/**
+*.csv
+data_files
+tempCodeRunnerFile.py

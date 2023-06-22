@@ -19,5 +19,8 @@ After statistics are provided, raw data can be returned in rows of 5 at a time u
 * new_york_city.csv 
 * washington.csv
 
+### Known bugs
+code only works if data files are place within data_files folder which located in the same directory as the code file relative path. 
+
 ### Credits
 Credits to Udacity.  

@@ -1,6 +1,6 @@
 ## Bikeshare Udacity Project
 
-### Date created 20.06.23
+### Date created 22.06.2023
 
 ### Description 
 Takes as input city, month and day and returns statistics on bike travelling. 
@@ -13,7 +13,7 @@ Returned bike statistics from running code are:
 * Birth statistics of bike travelers
 After statistics are provided, raw data can be returned in rows of 5 at a time until the user decides to restart or terminate the program. 
 
-Files used are: 
+**Files used are:** 
 * bikeshare.py
 * chicago.csv
 * new_york_city.csv 
